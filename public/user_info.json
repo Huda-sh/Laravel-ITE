@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Huda",
+        "email": "huda@gmail.com",
+        "phone_number": "0987654321"
+    },
+    {
+        "name" : "Ibrahim",
+        "email" : "ibrahim@gmail.com",
+        "phone_number": "0987654321"
+    },
+    {
+        "name" : "Hiba",
+        "email" : "hiba@gmail.com",
+        "phone_number": "0987654321"
+    },
+    {
+        "name" : "Omar",
+        "email" : "omar@gmail.com",
+        "phone_number": "0987654321"
+    }
+]
